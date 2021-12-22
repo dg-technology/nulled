@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69386922908",
+    "project_id": "macro-creek-330313",
+    "storage_bucket": "macro-creek-330313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69386922908:android:c06d17de64cba473897659",
+        "android_client_info": {
+          "package_name": "com.heplay.dghub.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69386922908-424n8dad4v25niuu1vt02pa280eo2ijs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz08fnLyrLzBedQDsA0nRLhxX_ZXUwovQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69386922908-424n8dad4v25niuu1vt02pa280eo2ijs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
